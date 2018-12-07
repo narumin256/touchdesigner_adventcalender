@@ -1,3 +1,3 @@
 # touchdesigner_adventcalender
 
-[](takenoko.gif)
+[Takenoko](takenoko.gif)
